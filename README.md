@@ -1,5 +1,4 @@
 # EasyDAM_dataset
-The dataset is used in the paper "EasyDAM_V4: Guided-GAN based cross-species data labeling for fruit detection with significant shape difference".  
+The dataset is used in the paper "EasyDAM_V4: Guided-GAN based cross-species data labeling for fruit detection with significant shape difference".  (in Press) 
 ## Data avaible here:
-https://cowtransfer.com/s/eb0c4be6d0f846  
-access code:
+Please fill out [this form](https://forms.gle/PFhxjcpQZvq3xvo46) to get the download link.
