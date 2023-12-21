@@ -6,7 +6,7 @@ Please fill out [this form](https://forms.gle/PFhxjcpQZvq3xvo46) to get the down
 Please fill out https://cowtransfer.com/s/8401d172621349 to get pretrained models.  
 
   
-We also provide the following example images.  
+We also provide examples of automatic labeling images as follows.  
 
 <img src="https://github.com/I3-Laboratory/EasyDAM_dataset/blob/main/test_picture.jpg" width="400px">  
 
