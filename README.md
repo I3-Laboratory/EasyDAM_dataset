@@ -6,5 +6,7 @@ Please fill out [this form](https://forms.gle/PFhxjcpQZvq3xvo46) to get the down
 We also provide examples of automatic labeling images as follows.  
 
 <img src="https://github.com/I3-Laboratory/EasyDAM_dataset/blob/main/test_picture.jpg" width="400px">  
-
+···
+conda create --name CenterNet python=3.6
+···
 
