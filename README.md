@@ -7,6 +7,6 @@ We also provide examples of automatic labeling images as follows.
 
 <img src="https://github.com/I3-Laboratory/EasyDAM_dataset/blob/main/test_picture.jpg" width="400px">  
 ···  
-conda create --name CenterNet python=3.6
+conda create --name CenterNet python=3.6  
 ···  
 
