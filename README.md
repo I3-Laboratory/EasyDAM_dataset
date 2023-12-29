@@ -31,6 +31,15 @@ pip install -r requirements.txt
 ```
  Compile deformable convolutional (from DCNv2).  
 ```
-cd $CenterNet_ROOT/src/lib/models/networks/DCNv2  
+cd $EasyDAM_dataset/CenterNet/src/lib/models/networks/DCNv2  
 ./make.sh
+```
+## Usage
+We support demo for automatic labeling.  
+
+First, download the pretrained models and put them in EasyDAM_dataset/CenterNet/exp/.  
+
+Then, run:  
+```
+python demo.py ctdet --demo /path/to/image --load_model ../models/ctdet_coco_dla_2x.pth
 ```
