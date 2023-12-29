@@ -7,3 +7,6 @@ We also provide examples of automatic labeling images as follows.
 
 <img src="https://github.com/I3-Laboratory/EasyDAM_dataset/blob/main/test_picture.jpg" width="400px">  
 
+```
+pip install -r requirements.txt
+```
