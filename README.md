@@ -28,4 +28,9 @@ python setup.py install --user
  Install the requirements.  
 ```
 pip install -r requirements.txt
-``` 
+```
+ Compile deformable convolutional (from DCNv2).  
+```
+cd $CenterNet_ROOT/src/lib/models/networks/DCNv2  
+./make.sh
+```
