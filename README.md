@@ -45,3 +45,6 @@ Then, run:
 ```
 python demo.py ctdet --demo /path/to/image --load_model ../models/ctdet_coco_dla_2x.pth
 ```
+## Weight
+Cycle_GAN_weight
+link: https://pan.baidu.com/s/1fFLigg34ZcKLbYK5l6ERxw?pwd=k5xx Code: k5xx 
