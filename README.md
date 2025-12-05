@@ -1,4 +1,4 @@
-## EasyDAM_dataset  
+## EasyDAM_dataset_v4  
 The dataset is used in the paper:  
 Wenli Zhang, Yuxin Liu, Chenhuizi Wang, Chao Zheng, Guoqiang Cui, Wei Guo, EasyDAM_V4: Guided-GAN-based cross-species data labeling for fruit detection with significant shape difference, Horticulture Research, Volume 11, Issue 3, March 2024, uhae007, https://doi.org/10.1093/hr/uhae007
 
